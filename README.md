@@ -9,3 +9,12 @@ optimized data sorting.
 
 https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-two-stacks-d1e76a71789a
 
+# Helpful videos
+
+https://www.youtube.com/watch?v=I37kGX-nZEI
+
+https://www.youtube.com/watch?v=rS-ZKTqwi90
+
+https://www.youtube.com/watch?v=Mlv2fMvt9b4
+
+.
